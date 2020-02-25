@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SamuraiApp.Data/bin
+/SamuraiApp.Data/obj
+/SamuraiApp.Domain/bin
+/SamuraiApp.Domain/obj
